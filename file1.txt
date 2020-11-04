@@ -1,2 +1,2 @@
 file 1
-This is my added line
+This is our added line
